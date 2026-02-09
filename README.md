@@ -73,7 +73,6 @@ The cleaned dataset was used to build an interactive dashboard for banking insig
 
 ### Dashboard Preview
 
-
 ### Key Features
 - KPI cards for balances and transactions
 - Credit vs Debit analysis
