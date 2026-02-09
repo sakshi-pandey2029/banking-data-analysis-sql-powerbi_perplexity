@@ -71,9 +71,6 @@ These issues were intentionally introduced to simulate real-world data challenge
 
 The cleaned dataset was used to build an interactive dashboard for banking insights.
 
-## Dashboard Preview
-DashboardPage1.png
-
 ### Key Features
 - KPI cards for balances and transactions
 - Credit vs Debit analysis
